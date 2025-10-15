@@ -1,6 +1,7 @@
 # MapUp - Analytics Dashboard Assessment
 
 Deployed Link - [Link](https://ev-data-dashboard.onrender.com/)
+Git Repo Link - [Link](https://github.com/Sudheerchikile/EV_Data_Dashboard)
 
 
 
